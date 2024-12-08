@@ -1,8 +1,5 @@
 # CDAC-Project
-This project was created for PG-DAC course of CDAC Institute. This is an e-commerce marketplace for farmers.
-
-## Collaborators
-[![Contributors](https://contrib.rocks/image?repo=rohitkbc/CDAC-Project)](https://github.com/rohitkbc/CDAC-Project/graphs/contributors)
+This project was created for PG-DAC course of CDAC Institute.  The project name is Farmer products management system. This is an e-commerce marketplace for farmers.
 
 ## Login Page
 ![image](https://user-images.githubusercontent.com/100275369/194843407-a8fa0c77-b7ab-4e40-8729-8acea0b45a1f.png)
